@@ -2,7 +2,7 @@
 
 Purpose: An open source .xlsx file that you can calculate any form video RAW data . And you can manually add/remove any data anytime anywhere.
 
-​![bandicam 2024-05-06 05-04-59-765](assets/bandicam%202024-05-06%2005-04-59-765-20240506050709-gcu8upv.gif)​
+![bandicam 2024-05-06 05-04-59-765](assets/bandicam%202024-05-06%2005-04-59-765-20240506050709-gcu8upv.gif)
 
 # Project Introduction
 
@@ -15,25 +15,25 @@ An Excel spreadsheet that helps professionals in the film and television industr
 * Flexible use, data can be modified at any time
 * Completely offline, for local use
 * Includes a database of camera video codecs and storage methods, allowing users to add and calculate the content they want.
-* Can also be placed in WPS cloud documents, accessible anytime via mobile phones, tablets, or any internet-enabled devices, and can be opened through a WeChat mini-program.
+* Can also be placed in WPS Cloud, accessible anytime via mobile phones, tablets, or any internet-enabled devices, and can be opened through a WeChat mini-program.
 * Users familiar with Excel can fully customize and modify formulas and usage methods.
 * Bilingual interface in Chinese and English, allowing for easy modification/retranslation of text, and users can add multiple languages on their own.
 
 ## Target Users
 
-Suitable for photographers, editors, DITs, VFX artists, and other professionals.
+Suitable for cinematographers, editors, DITs, VFX artists, and other professionals.
 
 # How to Use
 
-​![image](assets/image-20240506050742-38qccfs.png)​
+![image](assets/image-20240506050742-38qccfs.png)
 
 ## Simple Use
 
 Edit, modify, and add any data just like editing a spreadsheet. Various data types are already filled in the table, just follow the example to fill in.
 
-​![image](assets/image-20240506050814-69w1gty.png)​
+![image](assets/image-20240506050814-69w1gty.png)
 
-​![image](assets/image-20240506050845-z2lfhm8.png)​​​
+![image](assets/image-20240506050845-z2lfhm8.png)
 
 # Websites for Data Lookup
 
