@@ -1,8 +1,14 @@
+---
+title: README.eng
+date: 2024-05-06T04:24:53Z
+lastmod: 2024-05-06T06:03:04Z
+---
+
 # Video Codec Rate Calculator
 
 Purpose: An open source .xlsx file that you can calculate any form video RAW data . And you can manually add/remove any data anytime anywhere.
 
-![bandicam 2024-05-06 05-04-59-765](assets/bandicam%202024-05-06%2005-04-59-765-20240506050709-gcu8upv.gif)
+​![bandicam 2024-05-06 05-04-59-765](assets/bandicam%202024-05-06%2005-04-59-765-20240506050709-gcu8upv.gif)​
 
 # Project Introduction
 
@@ -25,15 +31,15 @@ Suitable for cinematographers, editors, DITs, VFX artists, and other professiona
 
 # How to Use
 
-![image](assets/image-20240506050742-38qccfs.png)
+​![image](assets/image-20240506050742-38qccfs.png)​
 
 ## Simple Use
 
 Edit, modify, and add any data just like editing a spreadsheet. Various data types are already filled in the table, just follow the example to fill in.
 
-![image](assets/image-20240506050814-69w1gty.png)
+​![image](assets/image-20240506050814-69w1gty.png)​
 
-![image](assets/image-20240506050845-z2lfhm8.png)
+​![image](assets/image-20240506050845-z2lfhm8.png)​​​
 
 # Websites for Data Lookup
 
@@ -44,3 +50,15 @@ Edit, modify, and add any data just like editing a spreadsheet. Various data typ
 5. [https://www.blackmagicdesign.com/products](https://www.blackmagicdesign.com/products)
 6. [https://phfx.com/tools/framesToDataRate/](https://phfx.com/tools/framesToDataRate/)
 7. [https://www.atomos.com/compatible-cameras/](https://www.atomos.com/compatible-cameras/)
+
+# Support Me
+
+If you find it useful, please support me. I will continue to update the database and maintain it. Buy me a cup of coffee!
+
+## Ali Pay
+
+​![微信图片_20240506055914](assets/微信图片_20240506055914-20240506060045-5c2dxx0.jpg)​
+
+## Wechat Pay
+
+​![微信图片_20240506055916](assets/微信图片_20240506055916-20240506060043-nhthf4j.jpg)​

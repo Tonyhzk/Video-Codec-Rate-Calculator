@@ -1,9 +1,15 @@
+---
+title: README.中文
+date: 2024-05-06T04:27:24Z
+lastmod: 2024-05-06T06:03:16Z
+---
+
 # 视频编码数据计算器
 
 英文名：Video Codec Rate Calculator
 
 用途：一款强大的工具，适用于摄影师/DIT/编辑。使用 .xlsx 表格形式，你可以计算任何形式的视频数据，甚至是相机的RAW数据。并且你可以随时随地手动添加或删除任何数据。
- 
+
 ​![bandicam 2024-05-06 04-40-12-057](assets/bandicam%202024-05-06%2004-40-12-057-20240506044254-i59kf7y.gif)​
 
 # 项目简介
@@ -47,6 +53,12 @@
 6. [https://phfx.com/tools/framesToDataRate/](https://phfx.com/tools/framesToDataRate/)
 7. [https://www.atomos.com/compatible-cameras/](https://www.atomos.com/compatible-cameras/)
 
-‍
+# 请支持我
+
+如果你觉得很好用请支持我，我会继续更新数据库并维护，请我喝杯咖啡！
+
+​![微信图片_20240506055914](assets/微信图片_20240506055914-20240506060045-5c2dxx0.jpg)​
+
+​![微信图片_20240506055916](assets/微信图片_20240506055916-20240506060043-nhthf4j.jpg)​
 
 ‍
